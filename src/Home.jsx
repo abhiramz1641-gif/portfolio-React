@@ -29,7 +29,7 @@ const Home = () => {
                     }}
                 >
                     <GlassSurface width="100%" height="100%" borderRadius={15}>
-                        <div className="flex justify-between items-center text-white w-full sm:p-2 md:px-10">
+                        <div className="flex justify-between items-center text-white w-full sm:p-2 px-2 md:px-10">
                             <h1 style={{ fontFamily: "Anton" }} className=' text-2xl'>ABHIRAM</h1>
                             <div className=" lg:flex gap-8 hidden">
                                 <a>Home</a>
